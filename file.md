@@ -24,10 +24,13 @@
 >
 > **1. Atomicity** :-
 > Atomicity ensures that a database transaction is treated as a single, indivisible unit of work. It means that either all the operations within a transaction are completed successfully, or none of them are. There is no in-between state.
+>
 > **2. Consistency** :-
 > Consistency ensures that a database remains in a valid state before and after a transaction. In other words, a transaction should bring the database from one consistent state to another.
+>
 > **3. Isolation** :-
 > Isolation ensures that concurrent transactions do not interfere with each other. Transactions should be isolated from each other to prevent conflicts and maintain data integrity.
+>
 > **4. Durability** :-
 > Durability ensures that once a transaction is committed, its changes are permanent and will survie any system failures, such as power outages or crashes.
 >
