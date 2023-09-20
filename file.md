@@ -13,7 +13,9 @@
 9. [Database Isolation Levels](#isolation)
 10. [Triggers](#trigger)
 
-<a id="acid"></a>## ACID
+<a id="acid"></a>
+
+# ACID
 
 > ---
 >
@@ -31,7 +33,9 @@
 >
 > ---
 
-<a id="cap"></a>## CAP THEOREM
+<a id="cap"></a>
+
+# CAP THEOREM
 
 > ---
 >
@@ -74,7 +78,9 @@
 >
 > ---
 
-<a id="joins"></a>## Joins
+<a id="joins"></a>
+
+# Joins
 
 > ---
 >
@@ -131,7 +137,9 @@
 >
 > > ---
 
-<a id="ANF"></a>## Aggregations and Filters
+<a id="ANF"></a>
+
+# Aggregations and Filters
 
 > ---
 >
@@ -198,7 +206,9 @@
 >
 > ---
 
-<a id="normalisation"></a>## Normalization
+<a id="normalisation"></a>
+
+# Normalization
 
 > ---
 >
@@ -227,7 +237,9 @@
 >
 > ---
 
-<a id="index"></a>## Indexes
+<a id="index"></a>
+
+# Indexes
 
 > ---
 >
@@ -235,7 +247,9 @@
 >
 > ---
 
-<a id="transaction"></a>## Transactions
+<a id="transaction"></a>
+
+# Transactions
 
 > ---
 >
@@ -272,7 +286,9 @@
 >
 > ---
 
-<a id="locking"></a>## Locking mechanism
+<a id="locking"></a>
+
+# Locking mechanism
 
 > ---
 >
@@ -294,7 +310,9 @@
 >
 > ---
 
-<a id="isolation"></a>## Isolation Levels
+<a id="isolation"></a>
+
+# Isolation Levels
 
 > ---
 >
@@ -325,7 +343,9 @@
 >
 > ---
 
-<a id="trigger"></a>## Triggers
+<a id="trigger"></a>
+
+# Triggers
 
 > ---
 >
