@@ -1,4 +1,4 @@
-#SQL Concepts - Technical Paper
+## SQL Concepts - Technical Paper
 
 ## Table of Contents
 
@@ -13,21 +13,25 @@
 9. [Database Isolation Levels](#isolation)
 10. [Triggers](#trigger)
 
-<a id="acid"></a># ACID
+<a id="acid"></a>## ACID
 
 > ---
 >
 > "ACID" stands for Atomicity, Consistency, Isolation, and Durability
 > ACID properties keep check for characteristics that ensure the reliability and consistency of database transactions.
 >
-> **1. Atomicity** :- Atomicity ensures that a database transaction is treated as a single, indivisible unit of work. It means that either all the operations within a transaction are completed successfully, or none of them are. There is no in-between state.
-> **2. Consistency** :- Consistency ensures that a database remains in a valid state before and after a transaction. In other words, a transaction should bring the database from one consistent state to another.
-> **3. Isolation** :- Isolation ensures that concurrent transactions do not interfere with each other. Transactions should be isolated from each other to prevent conflicts and maintain data integrity.
-> **4. Durability** :- Durability ensures that once a transaction is committed, its changes are permanent and will survie any system failures, such as power outages or crashes.
+> **1. Atomicity** :-
+> Atomicity ensures that a database transaction is treated as a single, indivisible unit of work. It means that either all the operations within a transaction are completed successfully, or none of them are. There is no in-between state.
+> **2. Consistency** :-
+> Consistency ensures that a database remains in a valid state before and after a transaction. In other words, a transaction should bring the database from one consistent state to another.
+> **3. Isolation** :-
+> Isolation ensures that concurrent transactions do not interfere with each other. Transactions should be isolated from each other to prevent conflicts and maintain data integrity.
+> **4. Durability** :-
+> Durability ensures that once a transaction is committed, its changes are permanent and will survie any system failures, such as power outages or crashes.
 >
 > ---
 
-<a id="cap"></a># CAP THEOREM
+<a id="cap"></a>## CAP THEOREM
 
 > ---
 >
@@ -70,7 +74,7 @@
 >
 > ---
 
-<a id="joins"></a># Joins
+<a id="joins"></a>## Joins
 
 > ---
 >
@@ -127,7 +131,7 @@
 >
 > > ---
 
-<a id="ANF"></a>#Aggregations and Filters
+<a id="ANF"></a>## Aggregations and Filters
 
 > ---
 >
@@ -194,7 +198,7 @@
 >
 > ---
 
-<a id="normalisation"></a># Normalization
+<a id="normalisation"></a>## Normalization
 
 > ---
 >
@@ -223,7 +227,7 @@
 >
 > ---
 
-<a id="index"></a># Indexes
+<a id="index"></a>## Indexes
 
 > ---
 >
@@ -231,7 +235,7 @@
 >
 > ---
 
-<a id="transaction"></a># Transactions
+<a id="transaction"></a>## Transactions
 
 > ---
 >
@@ -268,7 +272,7 @@
 >
 > ---
 
-<a id="locking"></a># Locking mechanism
+<a id="locking"></a>## Locking mechanism
 
 > ---
 >
@@ -290,7 +294,7 @@
 >
 > ---
 
-<a id="isolation"></a># Isolation Levels
+<a id="isolation"></a>## Isolation Levels
 
 > ---
 >
@@ -321,7 +325,7 @@
 >
 > ---
 
-<a id="trigger"></a># Triggers
+<a id="trigger"></a>## Triggers
 
 > ---
 >
